@@ -1,0 +1,103 @@
+body {
+  font-family: 'Poppins', sans-serif;
+margin: 0;
+padding: 0;
+}
+
+p{
+  font-size: 20px
+}
+li{
+
+  list-style: none;
+  margin-right: 25px
+
+}
+.ss {
+
+text-decoration: none;
+}
+.men{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+ul {
+  display: flex;
+}
+a {
+  text-decoration: none;
+  color: #070405;
+}
+.titular {
+  text-align: center;
+  margin-top: 470px
+}
+h1 {
+font-size: 60px;
+margin: 0;
+}
+h2 {
+  font-size: 30px;
+  margin-bottom: 40px;
+
+
+}
+a {
+font-size: 15px;
+background: #00FFF3;
+padding: 15px;
+padding-bottom: 18px;
+padding-top: 18px;
+padding-left: 30px;
+padding-right: 25px;
+}
+header {
+  
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+
+}
+.contenedor {
+  max-width: 1280px;
+  width: 95%;
+  margin: auto;
+
+}
+
+}
+.nikelodeon {
+  background: url(imagenes/nikelodeon.jpeg);
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+}
+/*seccion*/
+h3 {
+  text-align: center;
+  font-size: 45px;
+  font-weight: normal;
+}
+p {
+  font-weight: bold;
+
+}
+.contenido-sobremi {
+  display: flex;
+  justify-content: space-around;
+
+}
+.parrafoyboton {
+  width: 42%;
+
+}
+.sobremi {
+  text-align: center;
+  margin-top: 0px
+
+}
+.titu {
+  text-align: center;
+}
